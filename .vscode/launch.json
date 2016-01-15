@@ -11,7 +11,7 @@
 			"cwd": ".",
 			"runtimeExecutable": null,
 			"sourceMaps": true,
-			"outDir": "bin"
+			"outDir": "src/js"
 		}
 	]
 }
